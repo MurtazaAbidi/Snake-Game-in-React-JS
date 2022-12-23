@@ -1,3 +1,10 @@
+<img width="960" alt="GamePlay_1" src="https://user-images.githubusercontent.com/57715393/209338745-16966c31-82f7-41c9-8aa8-d0fb3b039d28.png">
+
+<img width="960" alt="GamePlay_2" src="https://user-images.githubusercontent.com/57715393/209339076-cc9246d8-16c4-4c50-afab-a67a0888e87a.png">
+
+<img width="960" alt="GamePlay_3" src="https://user-images.githubusercontent.com/57715393/209339085-eb926350-da05-4b12-a456-52bb8d93926f.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
